@@ -10,9 +10,9 @@ Face detection is a computer technology used in various applications that identi
 
 To get started with the project, clone this repository and install the necessary dependencies.
 
-git clone https://github.com/yourusername/face-detection-opencv.git
+    git clone https://github.com/yourusername/face-detection-opencv.git
 
-cd face-detection-opencv
+    cd face-detection-opencv
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
